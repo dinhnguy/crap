@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GDie()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Die\n
+comment1.params=
+comment1.target=int\ roll()
+comment1.text=\n\ roll\ method\ rolls\ the\ dice\ and\ returns\ the\ result\n\ \n\ @return\ \ \ \ \ the\ roll,\ a\ value\ from\ 1-6\ inclusive\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ toString\ returns\ a\ graphical\ representation\ of\ a\ Die\ roll\n
+numComments=3

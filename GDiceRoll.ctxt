@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GDiceRoll
+comment1.params=
+comment1.target=GDiceRoll()
+comment2.params=
+comment2.target=int\ rollThem()
+numComments=3

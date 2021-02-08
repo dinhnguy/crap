@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DiceRoll
+comment1.params=
+comment1.target=DiceRoll()
+comment1.text=\n\ Creates\ a\ pair\ of\ dice\ for\ rolling.\n
+comment2.params=
+comment2.target=int\ rollThem()
+comment2.text=\n\ Rolls\ the\ dice,\ prints\ out\ the\ results,\ and\ returns\ the\ sum\ of\ the\ two\ dice.\n\ @return\ the\ total\ of\ the\ two\ dice\ rolled\ (a\ value\ 2-12)\n
+numComments=3
